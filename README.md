@@ -16,7 +16,7 @@ This project analyzes the Women's E-commerce Clothing Reviews dataset to segment
   - Sentiment distribution by cluster.
 
 ## Files
-- `sentiment_analysis.ipynb`: Jupyter Notebook with code, analysis, and visualizations.
+- `preprocess.ipynb`: Jupyter Notebook with code, analysis, and visualizations.
 - `.gitignore`: Excludes virtual environment and dataset.
 
 ## Requirements
