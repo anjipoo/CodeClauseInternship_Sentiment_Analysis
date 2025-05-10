@@ -32,7 +32,7 @@ git clone https://github.com/anjipoo/CodeClauseInternship_Sentiment_Analysis.git
 ```
 2. install dependencies in virtual environment:
 3. download dataset from kaggle
-4. run `sentiment_analysis.ipynb` in Jupyter Notebook.
+4. run `preprocess.ipynb` in Jupyter Notebook.
 
 ## Results
 1. **clustering**
