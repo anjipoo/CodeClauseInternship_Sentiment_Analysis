@@ -36,5 +36,5 @@ git clone https://github.com/anjipoo/CodeClauseInternship_Sentiment_Analysis.git
 
 ## Results
 1. **clustering**
-2. **sentiment analysis**: 81% accuracy in classifying reviews as Negative, Neutral, or Positive.
+2. **sentiment analysis**: 82% accuracy in classifying reviews as Negative, Neutral, or Positive.
 3. **insights**
